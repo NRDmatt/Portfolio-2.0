@@ -8,6 +8,10 @@
 
 For this project i made a updated and improved version of my 1st portfolio with new technologies and more of my work.
 
+![](2023-04-18-04-05-02.png)
+![](2023-04-18-04-06-21.png)
+![](2023-04-18-04-06-42.png)
+![](2023-04-18-04-07-12.png)
 
 ## Table of Contents
 
