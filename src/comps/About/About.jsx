@@ -23,7 +23,7 @@ function About() {
         <div className="about" id="about">
             <div className="left">
                 <div className="imgContainer">
-                    <img src="assets/MichelleBrinich-headshot-copy.jpeg" alt="miche b pic" />
+                    <img src="/assets/profile pic.jpg" alt="mathew wyatt pic" />
                 </div>
             </div>
             <div className="right">

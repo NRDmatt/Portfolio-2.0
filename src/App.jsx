@@ -4,7 +4,7 @@ import Topbar from "./comps/Nav/Navbar";
 import About from "./comps/About/About";
 import Resume from './comps/Resume/Resume';
 import Portfolio from './comps/Portfolios/Portfolio';
-import Contact from './comps/Contact/Contact';
+import Contact from './comps/Contacts/Contact';
 import Footer from './comps/Footer/Footer';
 
 function App() {
